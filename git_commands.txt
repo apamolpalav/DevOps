@@ -1,0 +1,9 @@
+[root@ip-172-31-15-29 ~]# git config --global user.name "Amol"
+[root@ip-172-31-15-29 ~]# git config --global user.email "amolpalav@gmail.com"
+[root@ip-172-31-15-29 ~]# git config --list
+user.name=Amol
+user.email=amolpalav@gmail.com
+
+
+
+git init
