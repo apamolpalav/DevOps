@@ -7,3 +7,22 @@ user.email=amolpalav@gmail.com
 
 
 git init
+
+git status
+
+
+git add .
+git add myFile
+
+
+git commit -m "1st commit from Mumbai"
+
+
+git log
+
+
+git show 2e051f969f46c2f2ab365cec79a5b8163e39de7c
+git show 2e051f9
+
+
+git push -u origin main
